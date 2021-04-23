@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roman-for-kids/static/css/main.5a1fd098.chunk.css",
+    "main.js": "/roman-for-kids/static/js/main.1d074102.chunk.js",
+    "main.js.map": "/roman-for-kids/static/js/main.1d074102.chunk.js.map",
+    "runtime-main.js": "/roman-for-kids/static/js/runtime-main.6a8279a4.js",
+    "runtime-main.js.map": "/roman-for-kids/static/js/runtime-main.6a8279a4.js.map",
+    "static/js/2.27a2ebac.chunk.js": "/roman-for-kids/static/js/2.27a2ebac.chunk.js",
+    "static/js/2.27a2ebac.chunk.js.map": "/roman-for-kids/static/js/2.27a2ebac.chunk.js.map",
+    "static/js/3.7f7a082b.chunk.js": "/roman-for-kids/static/js/3.7f7a082b.chunk.js",
+    "static/js/3.7f7a082b.chunk.js.map": "/roman-for-kids/static/js/3.7f7a082b.chunk.js.map",
+    "index.html": "/roman-for-kids/index.html",
+    "static/css/main.5a1fd098.chunk.css.map": "/roman-for-kids/static/css/main.5a1fd098.chunk.css.map",
+    "static/js/2.27a2ebac.chunk.js.LICENSE.txt": "/roman-for-kids/static/js/2.27a2ebac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8279a4.js",
+    "static/js/2.27a2ebac.chunk.js",
+    "static/css/main.5a1fd098.chunk.css",
+    "static/js/main.1d074102.chunk.js"
+  ]
+}
